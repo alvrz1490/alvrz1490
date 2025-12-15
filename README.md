@@ -6,6 +6,5 @@ I'm a System Administrator looking to level up my skills and venture into the SR
 - Reliability & uptime engineering
 - Monitoring, alerting, and observability
 - Infrastructure as Code (Terraform, Ansible)
-- Incident response & postmortems
 
 📫 You can reach me at: alvrz1490@gmail.com
